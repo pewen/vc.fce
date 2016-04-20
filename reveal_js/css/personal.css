@@ -1,0 +1,27 @@
+/* Encabezado de la slide  */
+.reveal h2 {
+    font-size: 1em;
+    text-align: left;
+    padding-left: 15px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(76, 158, 217);
+}
+
+.reveal .slides > section {
+    padding: 0px 0px;
+}
+
+.reveal .slides > section > section.level3 {
+    width: 90%;
+    margin-left: 5%;
+}
+
+.slides {
+
+}
+
+
+.reveal .slides .level2 {
+    top: 0 !important
+}

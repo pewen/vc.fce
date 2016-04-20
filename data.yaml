@@ -1,0 +1,53 @@
+---
+##################################################################
+# 
+##################################################################
+
+title : Proyecto de Videoconferencias
+subtitle : UNRC FCE
+description : distintos escenarios posibles y propuestas de soft.
+
+# Lista de los autores separados por coma.
+authors : Marcelo Marescalchi, Daniel Bellomo
+date : abril 2016
+place :  Facultad de Ciencias Económicas
+
+##################################################################
+# Configuración de la presentación.
+
+# Todos los parámetros siguientes son optativos, y se muestran
+# los argumento por defecto
+##################################################################
+
+# Tema de la presentación. Las opciones son:
+# beige: Beige background, dark text, brown links
+# black: (default theme)
+# blood:
+# league: Gray background, white text, blue links 
+# moon:
+# night: Black background, thick white text, orange links
+# serif: Cappuccino background, gray text, brown links
+# simple: White background, black text, blue links
+# sky: Blue background, thin dark text, blue links
+# solarized: Cream-colored background, dark green text, blue links
+# white: White background, black text, blue links
+theme : black
+
+# Incluir otras librerias js, css, etc
+header-includes :
+
+# Incluir html antes de comenzar con la presentación
+include-before :
+
+# Titulo de la tabla de contenidos.
+toctitle : Tabla de contenidos
+
+# Activar los controles (true - false)
+controls : true
+# Indicar el progreso (true - false)
+progress : true
+# Historia (true - false)
+history : true
+# Efecto de transición (none - fade - slide - convex - concave - zoom)
+transition : 'slide'
+---
