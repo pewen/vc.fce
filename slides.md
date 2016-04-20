@@ -5,6 +5,12 @@ Los escenarios que se contemplan son los siguientes
 - uno a uno
 - uno a muchos
 
+### Aspectos técnicos y operativos
+
+- Software
+- Equipos
+- Red /LAN y WAN)
+
 ## Software
 
 Algunos softs para cada escenario
