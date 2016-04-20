@@ -5,11 +5,11 @@ Los escenarios que se contemplan son los siguientes
 - uno a uno
 - uno a muchos
 
-### Aspectos técnicos y operativos
+## Aspectos técnicos y operativos
 
 - Software
 - Equipos
-- Red /LAN y WAN)
+- Red (LAN y WAN)
 
 ## Software
 
@@ -56,3 +56,9 @@ Algunos softs para cada escenario
 ## Características
 
 - https://mashme.io
+
+## Youtube / Hangouts
+
+Características
+
+- 
